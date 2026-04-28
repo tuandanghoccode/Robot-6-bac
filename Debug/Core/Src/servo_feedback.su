@@ -1,0 +1,4 @@
+../Core/Src/servo_feedback.c:22:6:ServoFB_Init	72	static
+../Core/Src/servo_feedback.c:75:6:ServoFB_Read	24	static
+../Core/Src/servo_feedback.c:108:6:ServoFB_CalibrateZero	16	static
+../Core/Src/servo_feedback.c:117:7:ServoFB_GetCalibratedAngle	16	static

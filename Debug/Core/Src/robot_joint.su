@@ -1,0 +1,12 @@
+../Core/Src/robot_joint.c:22:21:clampf	24	static
+../Core/Src/robot_joint.c:37:17:angle_to_ccr	24	static
+../Core/Src/robot_joint.c:52:13:apply_ccr	16	static
+../Core/Src/robot_joint.c:60:6:RbJoint_Init	88	static
+../Core/Src/robot_joint.c:116:6:RbJoint_SetAngle	32	static
+../Core/Src/robot_joint.c:129:7:RbJoint_GetAngle	16	static
+../Core/Src/robot_joint.c:137:6:RbJoint_SetAllAngles	24	static
+../Core/Src/robot_joint.c:153:14:ease_in_out_cubic	24	static
+../Core/Src/robot_joint.c:162:6:RbJoint_SetTargetAngles	24	static
+../Core/Src/robot_joint.c:172:6:RbJoint_Update	48	static
+../Core/Src/robot_joint.c:210:6:RbJoint_GoHome	24	static
+../Core/Src/robot_joint.c:216:6:RbJoint_SetDuration	16	static
